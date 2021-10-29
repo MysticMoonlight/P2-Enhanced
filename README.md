@@ -9,12 +9,12 @@ PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 exper
 Note: These mods are currently in testing, so this List of Mods might get some change if there is any issue.
 ### Visual Mods
 - [Cleaner Turret Textures](https://modworkshop.net/mod/22998)
+- [Extreme Muzzleflashes](https://modworkshop.net/mod/17863)
 - [Fixed Animation Sync](https://modworkshop.net/mod/32528)
 - [HD NPC Weapon Model Replacement](https://modworkshop.net/mod/34740)
 - [Less Artifacted Weapons](https://modworkshop.net/mod/29100)
 - [Master Indigo's HD Grenade Crate V2](https://modworkshop.net/mod/12404)
 - [Optimized Prop Meshes - Black Cat Heist Optimization 1.2](https://modworkshop.net/mod/34645)
-- [Slightly Exaggerated 3rd-Person Muzzleflashes](https://modworkshop.net/mod/25764)
 - [Vastly Improved Zeal Taser](https://modworkshop.net/mod/22882)
 
 ### UI Mods
