@@ -2,22 +2,37 @@
 PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 experience while keeping original atmosphere. And this modpack is also multi-platform friendly.
 
 # Changelog
-### PAYDAY 2: Enhanced 1.0 "Calamity" (Oct 30, 2021)
+### PAYDAY 2: Enhanced 1.1-rc1 "Crasher" (Oct XX, 2021)
+Hello, and welcome to first minor update of PAYDAY 2: Enhanced. This update includes optimization and some removal due to performance issues.
+
+- Removed [Extreme Muzzleflashes](https://modworkshop.net/mod/17863) due to heavy lag issue, replaced with Slightly Exxxaggerrated Muzzleflashes
+- Added [Slightly Exxxaggerrated(sic) FPS Muzzleflashes](https://modworkshop.net/mod/26054) and [Slightly Exaggerated 3rd-Person Muzzleflashes](https://modworkshop.net/mod/25764)
+- Added [Map-Based Optimizations](https://modworkshop.net/mod/30521)
+- Added Optimization category
+
+### PAYDAY 2: Enhanced 1 "Calamity" (Oct 30, 2021)
 - Initial release.
+
+# Installation
+If mod includes Lua, put it on mods folder. If mod includes asset files, put it on mod_overrides.
 
 # List of Mods
 ### Visual Mods
 - [Cleaner Turret Textures](https://modworkshop.net/mod/22998)
-- [Extreme Muzzleflashes](https://modworkshop.net/mod/17863)
 - [Fixed Animation Sync](https://modworkshop.net/mod/32528)
 - [HD NPC Weapon Model Replacement](https://modworkshop.net/mod/34740)
 - [Less Artifacted Weapons](https://modworkshop.net/mod/29100)
 - [Master Indigo's HD Grenade Crate V2](https://modworkshop.net/mod/12404)
-- [Optimized Prop Meshes - Black Cat Heist Optimization 1.2](https://modworkshop.net/mod/34645)
+- [Slightly Exaggerated 3rd-Person Muzzleflashes](https://modworkshop.net/mod/25764)
+- [Slightly Exxxaggerrated(sic) FPS Muzzleflashes](https://modworkshop.net/mod/26054)
 - [Vastly Improved Zeal Taser](https://modworkshop.net/mod/22882)
 
 ### UI Mods
 - [VR Inventory Icons](https://modworkshop.net/mod/22147)
+
+### Optimization Mods
+- [Map-Based Optimizations](https://modworkshop.net/mod/30521)
+- [Optimized Prop Meshes - Black Cat Heist Optimization 1.2](https://modworkshop.net/mod/34645)
 
 # List of Risky Mod
 These mods are still on WIP and may be unstable. Use it at your own risk!
