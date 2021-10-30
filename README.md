@@ -6,7 +6,6 @@ PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 exper
 - Initial release.
 
 # List of Mods
-Note: These mods are currently in testing, so this List of Mods might get some change if there is any issue.
 ### Visual Mods
 - [Cleaner Turret Textures](https://modworkshop.net/mod/22998)
 - [Extreme Muzzleflashes](https://modworkshop.net/mod/17863)
