@@ -28,3 +28,7 @@ These mods are still on WIP and may be unstable. Use it at your own risk!
 # FAQ
 ### Where is BLT2/SuperBLT/BeardLib based mods?
 BLT2/SuperBLT/BeardLib will **NOT** be supported. Due to BLT based mods does not support other platforms like Linux (It uses DLL which isn't supported on Linux platform), we decided not to include it. We always prefer mods which supports multi-platform(Windows/macOS/Linux), so unless BLT developers add support for Linux, it will never going to be added.
+
+PAYDAY, the PAYDAY logo are trademarks and/or registered trademarks of Overkill - The Starbreeze Studio in the U.S. and/or other countries.
+
+PAYDAY 2: Enhanced is not sponsored, endorsed, licensed by, or affiliated with Overkill - The Starbreeze Studio. 
