@@ -2,7 +2,7 @@
 PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 experience while keeping original atmosphere. And this modpack is also multi-platform friendly.
 
 # Changelog
-### PAYDAY 2: Enhanced 1.0 "Calamity"
+### PAYDAY 2: Enhanced 1.0 "Calamity" (Oct 30, 2021)
 - Initial release.
 
 # List of Mods
