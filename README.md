@@ -2,7 +2,7 @@
 PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 experience while keeping original atmosphere. And this modpack is also multi-platform friendly.
 
 # Changelog
-### PAYDAY 2: Enhanced 1.1-rc1 "Crasher" (Oct XX, 2021)
+### PAYDAY 2: Enhanced 1.1 "Cataclysm" (Nov 1, 2021)
 Hello, and welcome to first minor update of PAYDAY 2: Enhanced. This update includes optimization and some removal due to performance issues.
 
 - Removed [Extreme Muzzleflashes](https://modworkshop.net/mod/17863) due to heavy lag issue, replaced with Slightly Exxxaggerrated Muzzleflashes
