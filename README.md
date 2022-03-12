@@ -1,3 +1,6 @@
+# This repository is obsolete
+We are now moving to [this repository](https://github.com/MysticMoonlight/EnhancedMod). This repo will remain archived.
+
 # PAYDAY 2: Enhanced
 PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 experience while keeping original atmosphere. And this modpack is also multi-platform friendly.
 
